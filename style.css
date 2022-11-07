@@ -214,7 +214,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../images/header_webart1-scaled.jpg) no-repeat;
+    background: url(images/header_webart1-scaled.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
